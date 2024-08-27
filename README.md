@@ -21,7 +21,6 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
-```
 ![Screenshot 2024-08-27 045631](https://github.com/user-attachments/assets/1daf8e44-1f48-4209-acfe-d752d6dcb233)
 ![Screenshot 2024-08-27 045641](https://github.com/user-attachments/assets/4a45a5ec-b51e-4fe3-bbd5-6ea30b5e0322)
 ![Screenshot 2024-08-27 045656](https://github.com/user-attachments/assets/d96c2d50-6c3a-4650-8dae-b4fc5692d0f9)
@@ -32,6 +31,5 @@ STEP 6: Use zscore of to remove outliers
 ![Screenshot 2024-08-27 045752](https://github.com/user-attachments/assets/2ba6a071-70b2-4259-ac6a-ddde07925b30)
 ![Screenshot 2024-08-27 045810](https://github.com/user-attachments/assets/980ccb8a-e427-42b3-88a8-00facd3ee81a)
 ![Screenshot 2024-08-27 045817](https://github.com/user-attachments/assets/b0bb63c2-9854-4d4f-a262-ae2af27b7f4a)
-```
 # Result
 Thus, the program for data cleaning using python has executed successfully.

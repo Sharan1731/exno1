@@ -21,6 +21,20 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
-            <<include your coding and its corressponding output screen shots here>>
+![Screenshot 2024-08-27 045631](https://github.com/user-attachments/assets/1daf8e44-1f48-4209-acfe-d752d6dcb233)
+
+![Screenshot 2024-08-27 045641](https://github.com/user-attachments/assets/4a45a5ec-b51e-4fe3-bbd5-6ea30b5e0322)
+![Screenshot 2024-08-27 045656](https://github.com/user-attachments/assets/d96c2d50-6c3a-4650-8dae-b4fc5692d0f9)
+![Screenshot 2024-08-27 045703](https://github.com/user-attachments/assets/f539505b-0bb7-4ac8-9e0f-297d6fccdbe5)
+![Screenshot 2024-08-27 045707](https://github.com/user-attachments/assets/fc19f7b6-5ca0-48df-aa92-317380c67ddb)
+![Screenshot 2024-08-27 045714](https://github.com/user-attachments/assets/e09e8acc-0ac2-40b5-bbc9-9a9cd6d0cb2c)
+![Screenshot 2024-08-27 045719](https://github.com/user-attachments/assets/1c2b0440-9932-4fc8-bf70-77a110362010)
+![Screenshot 2024-08-27 045734](https://github.com/user-attachments/assets/e7c84fb5-78dc-41c4-a57a-5a67fe20c031)
+![Screenshot 2024-08-27 045747](https://github.com/user-attachments/assets/73e067a9-9e24-46df-87fd-b89ad60f96c6)
+![Screenshot 2024-08-27 045752](https://github.com/user-attachments/assets/2ba6a071-70b2-4259-ac6a-ddde07925b30)
+![Screenshot 2024-08-27 045810](https://github.com/user-attachments/assets/980ccb8a-e427-42b3-88a8-00facd3ee81a)
+
+![Screenshot 2024-08-27 045817](https://github.com/user-attachments/assets/b0bb63c2-9854-4d4f-a262-ae2af27b7f4a)
+
 # Result
           <<include your Result here>>
